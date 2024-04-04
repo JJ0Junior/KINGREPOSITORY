@@ -5,7 +5,24 @@
 #include <fcntl.h>
 
 #define BLOCK_DIM 1024
-//aa
+
+/*
+!\fn main
+\brief robe file
+
+\var file
+\brief pointer del file
+\var argc
+\brief numero di parametri
+\var argv
+\brief vettore contenente i dati da scrivere nella pipe
+\var n
+\brief lunghezza del buffer
+\var fifo
+\brief contenuto dei dati presi dal file
+
+*/
+
 int main(int argc, char* argv[])
 {
  FILE* file;
