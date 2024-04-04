@@ -5,7 +5,7 @@
 #include <sys/types.h>
 #include <sys/stat.h>
 #include <fcntl.h>
-
+//aa
 #define BLOCK_DIM 1024
 #define PROGRAM "writer"
 

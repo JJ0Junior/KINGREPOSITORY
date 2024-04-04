@@ -5,7 +5,7 @@
 #include <fcntl.h>
 
 #define BLOCK_DIM 1024
-
+//aa
 int main(int argc, char* argv[])
 {
  FILE* file;
