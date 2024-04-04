@@ -7,7 +7,7 @@
 #include <fcntl.h>
 #define BLOCK_DIM 1024
 #define PROGRAM "writer"
-//a
+
 /**
  * @brief cCrea un nuovo processo e esegue un programma in esso
  *
